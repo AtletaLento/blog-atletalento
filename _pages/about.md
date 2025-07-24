@@ -30,4 +30,5 @@ Perché l’asticella si alza… ma anche la gioia di raggiungerla.
 Lentamente.
 
 **Michele Dalla Piazza**
+
 Un atleta lento che osserva e scrive. Questo blog è il mio modo di restituire qualcosa, a un mondo che mi sta dando tanto.
