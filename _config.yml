@@ -259,7 +259,7 @@ pagination:
 
 # Plugins (previously gems:)
 plugins:
-   - jekyll-remote-theme
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
